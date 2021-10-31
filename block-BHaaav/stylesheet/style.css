@@ -1,0 +1,127 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* css-resets property */
+.section-1{
+    background-color: #2D3040;
+    padding-bottom: 100px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    font-size: 30px;
+}
+nav{
+    text-align: center;
+    margin-top: 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+}
+h2{
+    margin-top: 100px;
+    color: white;
+    margin-left: 90px;
+    font-size:28px ;
+}
+hr{
+   margin-top: 30px;
+    width: 1340px;
+    height: 0.1px;
+    border: none;
+    background-color:white;
+}
+p{
+    color: white;
+    font-size: small;
+    margin-top: 30px;
+    margin-left:90px ;
+}
+.section-2{
+    background-color: #4C5C96;
+    line-height: 1.4;
+    padding-bottom: 30px;  
+}
+.section-3{
+    background-color: #45558D;
+    line-height: 1.4;
+    padding-bottom: 30px;
+}
+.section-4{
+    background-color: #3F4E85;
+    line-height: 1.4;
+    padding-bottom: 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.heading{
+    color: white;
+    padding-top: 25px;
+    margin-left: 90px;
+}
+.para-1{
+    font-size: 15px;
+}
+.link{
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 80px;
+    font-size: 13px;
+}
+/* footer style */
+footer{
+    padding: 25px;
+    background-color:#2E3141 ;  
+}
+span{
+    margin-left: 65px;
+    color: white;
+}
